@@ -23,9 +23,9 @@
 ## 🌍 Localization / Sprache
 
 **Current Language: German (Deutsch)**
-Please note that the current version of GlassCalc is available **exclusively in German**. All buttons, menus, and descriptions are in German.
+Please note that the current version of GlassCalc is available in both language. All buttons, menus, and descriptions are in German and English.
 
-**Future Update:** English support is currently **planned for a future update**. If you are interested in helping with the translation, feel free to reach out!
+**New Update:** English support is now available, You Can easily download this English Edition 
 
 ## 🛠️ Tech Stack & App Information
 
